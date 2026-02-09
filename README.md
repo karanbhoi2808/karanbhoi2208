@@ -24,8 +24,8 @@ I'm a passionate software developer specializing in Angular and Spring Boot. I a
 - **Databases:** MySQL, MongoDB
 
 ## Contact Me
-- 📧 Email: karanbhoi3087@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/karanbhoi2208
+- 📧 Email: [karanbhoi2808@gmail.com](mailto:karanbhoi2808@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/karanbhoi28](https://www.linkedin.com/in/karanbhoi28)
 
 <!---
 karanbhoi2208/karanbhoi2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
